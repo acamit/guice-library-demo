@@ -33,6 +33,7 @@
   </build>
   <modules>
     <module>Guice</module>
+    <module>DataStoreSamples/DataStore</module>
   </modules>
   <dependencies>
     <dependency>
